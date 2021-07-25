@@ -1,24 +1,24 @@
 # Very short description of the package
 
-[![Latest Version](https://badgen.net/packagist/v/kodekeep/laravel-rewards)](https://packagist.org/packages/kodekeep/laravel-rewards)
-[![Software License](https://badgen.net/packagist/license/kodekeep/laravel-rewards)](https://packagist.org/packages/kodekeep/laravel-rewards)
-[![Build Status](https://img.shields.io/github/workflow/status/kodekeep/laravel-rewards/run-tests?label=tests)](https://github.com/kodekeep/laravel-rewards/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Coverage Status](https://badgen.net/codeclimate/coverage/kodekeep/laravel-rewards)](https://codeclimate.com/github/kodekeep/laravel-rewards)
-[![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/laravel-rewards)](https://codeclimate.com/github/kodekeep/laravel-rewards)
-[![Total Downloads](https://badgen.net/packagist/dt/kodekeep/laravel-rewards)](https://packagist.org/packages/kodekeep/laravel-rewards)
+[![Latest Version](https://badgen.net/packagist/v/konceiver/laravel-rewards)](https://packagist.org/packages/konceiver/laravel-rewards)
+[![Software License](https://badgen.net/packagist/license/konceiver/laravel-rewards)](https://packagist.org/packages/konceiver/laravel-rewards)
+[![Build Status](https://img.shields.io/github/workflow/status/konceiver/laravel-rewards/run-tests?label=tests)](https://github.com/konceiver/laravel-rewards/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Coverage Status](https://badgen.net/codeclimate/coverage/konceiver/laravel-rewards)](https://codeclimate.com/github/konceiver/laravel-rewards)
+[![Quality Score](https://badgen.net/codeclimate/maintainability/konceiver/laravel-rewards)](https://codeclimate.com/github/konceiver/laravel-rewards)
+[![Total Downloads](https://badgen.net/packagist/dt/konceiver/laravel-rewards)](https://packagist.org/packages/konceiver/laravel-rewards)
 
 This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides
 
 ## Installation
 
 ```bash
-composer require kodekeep/laravel-rewards
+composer require konceiver/laravel-rewards
 ```
 
 ## Usage
 
 ``` php
-$skeleton = new KodeKeep\Skeleton();
+$skeleton = new Konceiver\Skeleton();
 echo $skeleton->echoPhrase('Hello, KodeKeep!');
 ```
 
@@ -38,7 +38,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover a security vulnerability within this package, please send an e-mail to hello@kodekeep.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this package, please send an e-mail to hello@konceiver.dev. All security vulnerabilities will be promptly addressed.
 
 ## Credits
 

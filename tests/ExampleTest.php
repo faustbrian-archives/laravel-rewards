@@ -1,6 +1,6 @@
 <?php
 
-namespace KodeKeep\Skeleton\Tests;
+namespace Konceiver\Skeleton\Tests;
 
 use PHPUnit\Framework\TestCase;
 
